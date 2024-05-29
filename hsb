@@ -1,0 +1,4 @@
+a = KoreanLanguage.class_my_language()
+b = KoreanLanguage.static_my_language()
+a.print_Language()
+b.print_Language()
